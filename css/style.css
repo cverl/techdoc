@@ -1,0 +1,44 @@
+body{
+  font-family: Helvetica;
+}
+#navbar{
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1; 
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+h3{
+  margin-left: 15px;
+}
+
+#navbar a{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #818181;
+  display: block;
+}
+
+#main-doc{
+  margin-left: 250px;
+  padding: 0px 10px;
+  margin-right: 50px;
+}
+
+li{
+  margin-left: 50px;
+}
+
+p{
+  margin-left: 10px;
+}
+
+xmp{
+  margin-left: 10px;
+  background-color: #DCDCDC;
+}
